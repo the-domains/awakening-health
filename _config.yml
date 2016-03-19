@@ -1,0 +1,28 @@
+name: Awakening Health
+favicon: null
+layout_spectrum: 0.18976136529818177
+typography_spectrum: 0.4399123634211719
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6455251534935087
+  lightness: 0.9020053138956428
+  saturation: 0.1077415980398655
+  rhythmicContrast: 0.5668879158329219
+purpose: []
